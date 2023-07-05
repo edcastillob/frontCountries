@@ -1,0 +1,62 @@
+.form {
+  display: grid;
+  gap: 5px;
+  margin-top: 45px;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 45px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 30px;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.select {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  color: #333;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  outline: none;
+  transition: border-color 0.3s ease;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+.select:hover {
+  border-color: #999;
+}
+
+.select:focus {
+  border-color: #555;
+}
+.button {
+  padding: 9px 16px;
+  background-color: #fa7878;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.button:hover {
+  background-color: #f75252;
+}
+.error {
+  color: red;
+  margin-top: 5px;
+}
+.input {
+  flex: 1;
+  padding: 8px;
+  font-size: 12px;
+  border-radius: 5px;
+}
+.countriesSelect {
+  color: #f75252;
+  font-weight: bold;
+  font-size: 20px;
+}
