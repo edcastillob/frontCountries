@@ -2,7 +2,7 @@ import ed from '../../assets/ecpic.jpg';
 import github from '../../assets/github.png';
 import link from '../../assets/linkedIn.png';
 import logo from '../../assets/ec.png';
-import style from '../ModuleCss/About.module.css';
+import style from '../moduleCss/About.module.css';
 
 
 
